@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ISEP\\ARQSI\\TodoApi\\TodoApi.csproj": {}
+    "D:\\ISEP\\ISEP_ARQSI\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "D:\\ISEP\\ARQSI\\TodoApi\\TodoApi.csproj": {
+    "D:\\ISEP\\ISEP_ARQSI\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ISEP\\ARQSI\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "D:\\ISEP\\ISEP_ARQSI\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "D:\\ISEP\\ARQSI\\TodoApi\\TodoApi.csproj",
+        "projectPath": "D:\\ISEP\\ISEP_ARQSI\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\ISEP\\ARQSI\\TodoApi\\obj\\",
+        "outputPath": "D:\\ISEP\\ISEP_ARQSI\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
